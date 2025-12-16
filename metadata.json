@@ -1,0 +1,5 @@
+{
+  "name": "Racing Game",
+  "description": "A high-octane car racing game rebuilt in React and TypeScript, strictly adhering to OOP principles like Inheritance, Polymorphism, and Encapsulation.",
+  "requestFramePermissions": []
+}
